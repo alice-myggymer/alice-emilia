@@ -8,6 +8,8 @@ image = "kiindermedizinbildkompressiert.jpg"
 description = "Künstliche Intelligenz ist neu für die Welt, vor allem auch für die Welt der Medizin. Wie gehen wir damit um, wie wird KI in der Medizin eingesetzt und welches Potential hat sie? - Diese Reportage zeigt auf, weshalb KI mehr ist, als nur ein Onlineprogramm, das uns einfache Antworten liefert."
 footnotes = "\\*Name der Redaktion bekannt"
 +++
+***Künstliche Intelligenz ist neu für die Welt, vor allem auch für die Welt der Medizin. Wie gehen wir damit um, wie wird KI in der Medizin eingesetzt und welches Potential hat sie? - Diese Reportage zeigt auf, weshalb KI mehr ist, als nur ein Onlineprogramm, das uns einfache Antworten liefert.***
+
 *Von Mia Grossenbacher und Alice Hauri*
 
 Vor dem Interview mit unserem Experten\* sind wir nervös. Doch sobald wir in das IFIK, kurz für Institut für Infektionskrankheiten, eintreten, kommt uns unser aufgeweckter, sympathisch wirkende Interviewpartner\* entgegen. Schnell entwickelt sich ein Gespräch. «Das Problem bei KI ist, dass viele Leute unter KI ChatGPT oder Gemini verstehen», meint er. KI sei jedoch viel mehr als das. In der Forschung verwende man vor allem das sogenannte Machine Learning, ein Teilbereich von KI. Machine Learning fokussiert auf die Fähigkeit eines Computers aus Daten zu lernen, anstelle sie einfach wiederzugeben. Er wird darauf trainiert Muster zu erkennen und somit die Arbeit der Forschenden zu vereinfachen. "Dieses Machine Learning, was wir hier benutzen, ist nur eine Art schneller zu gehen.“, so unser Experte*.  
